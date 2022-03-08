@@ -1,4 +1,5 @@
-<h2> Hello! My name is Ruben (M). I'm 19 years old and I'm currently studying *Applied Informatics* in PXL.</h2>
+<h2> Hello! My name is Ruben (M).</h2>
+ I'm 19 years old and I'm currently studying *Applied Informatics* in PXL.
 - I have learnt C++, C#, Java & Python so far and looking forward to learning more.
 - I’m currently learning C# .NET!
 - I am fluent in Dutch as well as English, and I am able to speak French as well.
