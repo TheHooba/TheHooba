@@ -1,4 +1,4 @@
-<h2> 👋 Hello! My name is Ruben!</h2>
+<h1> 👋 Hello! My name is Ruben!</h1>
 
  <h2>Languages:</h2>
        #️⃣ C#<br><br>
