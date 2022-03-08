@@ -9,4 +9,4 @@
        ☕ Java<br><br>
        🐍 Python<br><br>
        📜 MySql<br><br>
-       🌐 HTML, CSS, Javascript<br>
+       🌐 HTML, CSS, Javascript<br> 
