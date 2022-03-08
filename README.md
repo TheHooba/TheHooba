@@ -18,7 +18,7 @@
        • I don't procrastinate<br><br>
        • Quick responses<br><br>
        • Motivated & disciplined<br><br>
-  - I'm 19 years old and I'm currently studying <b>Applied Informatics* in PXL.</b> <br><br>
+  - I'm 19 years old and I'm currently studying <b>Computser Science at PXL.</b> <br><br>
   - I have learnt C++, C#, Java & Python so far and looking forward to learning more.<br><br>
   - I’m currently learning C# .NET!<br><br>
   - I am fluent in Dutch as well as English, and I am able to speak French as well.
