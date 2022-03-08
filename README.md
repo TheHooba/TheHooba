@@ -23,6 +23,6 @@
   - I’m currently learning C# .NET!<br><br>
   - I am fluent in Dutch as well as English, and I am able to speak French as well.
  <h2> Reach me:</h2>
-       • Discord: Hooba#7523
-       • E-mail: hoobayw@gmail.com
+       • Discord: Hooba#7523<br><br>
+       • E-mail: hoobayw@gmail.com<br><br>
        • Ask for more if necessary.
